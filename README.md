@@ -65,3 +65,6 @@ cd ../../../src
 java -cp ../WebContent/WEB-INF/lib/junit.jar:../WebContent/WEB-INF/lib/org.hamcrest.core_1.3.0.v201303031735.jar:. edu.iit.hawk.cwu49.TestRunner
 
 You should see the output of the test program now
+
+# Licence
+MIT License
