@@ -66,5 +66,11 @@ java -cp ../WebContent/WEB-INF/lib/junit.jar:../WebContent/WEB-INF/lib/org.hamcr
 
 You should see the output of the test program now
 
+# Known Bugs
+Did not implement the last 2 parts of the project, which are Reports and Search
+
+# Credits and Asknowledgement
+For testing, I used a software called "Postman". Also, since I didn't have any prior experience with Java & Tomcat, this project to me was a little hard at first. But the sample project had made it clear for me to follow & did the project. Thanks to the person who wrote the project as well
+
 # Licence
 MIT License
